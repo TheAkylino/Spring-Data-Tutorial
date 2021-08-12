@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>Spring-Boot-RestTemplate</artifactId>
+	<artifactId>api-demo-v1-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring-Boot-RestTemplate</name>
+	<name>api-demo-v1-client</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
