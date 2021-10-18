@@ -4,13 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.example</groupId>
-    <artifactId>Spring-Boot-RestTemplate</artifactId>
+    <groupId>com.tutorials</groupId>
+    <artifactId>tutorialsJpaHibernate</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>api-demo-v1-app</module>
-        <module>api-demo-v1-client</module>
+        <module>jpa-one-to-one-demo-01</module>
     </modules>
 </project>
