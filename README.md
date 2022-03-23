@@ -1,1 +1,1 @@
-# Spring-Data-Tutorial
+# Spring Data JPA Tutorial
